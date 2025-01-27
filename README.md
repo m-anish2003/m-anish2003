@@ -32,7 +32,6 @@
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### AI/ML Skills
@@ -52,23 +51,7 @@
 
 ---
 
-## 🌟 Featured Projects
 
-### [AI-Powered Chatbot](#)
-**Description**: A chatbot capable of handling customer queries using natural language processing.
-**Tech Stack**: Python, TensorFlow, Flask, HTML/CSS
-
-### [E-Commerce Website](#)
-**Description**: A fully functional e-commerce web application with user authentication, product listings, and a shopping cart.
-**Tech Stack**: React.js, Node.js, MongoDB
-
-### [Movie Recommendation System](#)
-**Description**: A personalized movie recommendation system using collaborative filtering and content-based filtering.
-**Tech Stack**: Python, Pandas, Scikit-learn
-
-### [Portfolio Website](#)
-**Description**: A personal portfolio website to showcase projects, skills, and achievements.
-**Tech Stack**: HTML, CSS, JavaScript
 
 ---
 

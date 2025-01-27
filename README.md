@@ -23,7 +23,7 @@
 - 🎓 **Education**: Pursuing a Bachelor's degree in CSE (AIML).
 - 🌱 **Current Learning**: Machine Learning, Deep Learning, and Full-Stack Development.
 - 💡 **Interests**: AI/ML, Web Development, Data Science, and Open-Source Contributions.
-- 📫 **Contact**: [Your Email Address] | [Your LinkedIn Profile] | [Your Portfolio Website (if any)]
+- 📫 **Contact**: mt8902017@gmail.com | (https://www.linkedin.com/in/manish-tiwari-894b5a220/)
 
 ---
 
